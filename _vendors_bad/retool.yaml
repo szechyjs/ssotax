@@ -1,0 +1,15 @@
+---
+base_pricing: 5
+currency: USD
+free_sso_providers:
+  - Google
+name: Retool
+notes: Enterprise has a $60k/y fixed cost + ~$23.75/end user/month variable cost. Retool also capped their on-prem business plan to 25 users forcing essentially every non-startup to go Enterprise. $216.06/end user/month = $60k/12/26 + $23.75 (for a team of 26 end users)
+pricing_scheme: price 'end user'/month 
+pricing_sources:
+  - https://retool.com/pricing
+  - Quote
+scim_pricing: 216.06
+sso_pricing: 216.06
+updated_at: 2024-01-01
+vendor_url: https://retool.com
