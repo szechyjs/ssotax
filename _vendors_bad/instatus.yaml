@@ -1,0 +1,14 @@
+---
+base_pricing: 20
+currency: USD
+free_sso_providers:
+  - Google
+name: Instatus
+notes: 
+pricing_scheme: per month
+pricing_sources:
+  - https://instatus.com/pricing
+scim_pricing: unknown
+sso_pricing: 300
+updated_at: 2024-01-09
+vendor_url: https://instatus.com
