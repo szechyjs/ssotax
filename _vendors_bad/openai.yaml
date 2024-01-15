@@ -1,0 +1,15 @@
+---
+base_pricing: 25
+currency: USD
+free_sso_providers:
+  - Apple
+  - Google
+  - Microsoft
+name: OpenAI/ChatGPT
+notes: 150 user minimum required for SSO
+pricing_scheme: per user/month
+pricing_sources:
+  - https://openai.com/chatgpt/pricing
+sso_pricing: unknown
+updated_at: 2024-01-15
+vendor_url: https://openai.com
