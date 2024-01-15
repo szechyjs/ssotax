@@ -1,0 +1,12 @@
+---
+base_pricing: 19
+currency: EUR
+name: Matomo
+notes: On-Premise price would be free as base pricing. 499 €/year for SAML. Unknown for Cloud.
+pricing_scheme: per month
+pricing_sources:
+  - https://matomo.org/pricing
+  - https://plugins.matomo.org/LoginSaml?currency=EUR&matomoversion=5
+sso_pricing: unknown
+updated_at: 2024-01-15
+vendor_url: https://matomo.org
