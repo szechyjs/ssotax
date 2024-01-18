@@ -4,7 +4,7 @@ currency: USD
 free_sso_providers:
   - Google
 name: Attio
-notes: More pricing info at https://app.attio.com/<org>/settings/security (after logging in and clicking "Upgrade").
+notes: More pricing info at https://app.attio.com/[YOUR_ORG]/settings/security (after logging in and clicking "Upgrade").
 pricing_scheme: per user/month
 pricing_sources:
   - https://attio.com/pricing
