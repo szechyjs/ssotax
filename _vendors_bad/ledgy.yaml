@@ -1,0 +1,14 @@
+---
+base_pricing: 3
+currency: EUR
+free_sso_providers:
+  - Google
+name: Ledgy
+notes: Only available on the Enterprise plan
+pricing_scheme: per user/month
+pricing_sources:
+  - https://ledgy.com/company-pricing
+  - Quote
+sso_pricing: unknown
+updated_at: 2024-01-18
+vendor_url: https://ledgy.com/
