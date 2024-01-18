@@ -1,0 +1,13 @@
+---
+base_pricing: 34
+currency: USD
+free_sso_providers:
+  - Google
+name: Attio
+notes: More pricing info at https://app.attio.com/<org>/settings/security (after logging in and clicking "Upgrade").
+pricing_scheme: per user/month
+pricing_sources:
+  - https://attio.com/pricing
+sso_pricing: 119
+updated_at: 2024-01-17
+vendor_url: https://attio.com/
