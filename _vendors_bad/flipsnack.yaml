@@ -1,0 +1,13 @@
+---
+base_pricing: 35
+currency: USD
+free_sso_providers:
+  - Google
+  - Microsoft
+name: Flipsnack
+pricing_scheme: per month
+pricing_sources:
+  - https://www.flipsnack.com/go-premium.html?tab=pricing
+sso_pricing: 355
+updated_at: 2024-02-06
+vendor_url: https://www.flipsnack.com/
