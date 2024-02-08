@@ -1,0 +1,11 @@
+---
+base_pricing: 5
+currency: USD
+name: BaseRow
+notes: Only in self hosted.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://baserow.io/pricing
+sso_pricing: unknown
+updated_at: 2024-02-08
+vendor_url: https://baserow.io
