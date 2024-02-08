@@ -1,0 +1,10 @@
+---
+base_pricing: 1995
+currency: USD
+name: Inedo ProGet
+pricing_scheme: per year
+pricing_sources:
+  - https://inedo.com/proget/pricing
+sso_pricing: 9995
+updated_at: 2024-02-07
+vendor_url: https://inedo.com
