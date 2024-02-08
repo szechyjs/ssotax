@@ -1,0 +1,15 @@
+---
+base_pricing: 10
+currency: EUR
+free_sso_providers:
+  - Apple
+  - Google
+name: Pitch
+notes: Seats in their pricing are not easy to compare between plans. There is also a "30 user" minimum to enable this.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://pitch.com/pricing
+  - Quote
+sso_pricing: 30
+updated_at: 2024-02-05
+vendor_url: https://pitch.com
