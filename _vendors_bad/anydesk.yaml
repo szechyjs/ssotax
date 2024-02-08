@@ -1,0 +1,13 @@
+---
+base_pricing: 29.9
+currency: EUR
+free_sso_providers:
+  - Google
+name: AnyDesk
+notes: Just an indication as the the licensed users are a factor in their pricing that is not easy to compare between plans. Definitely more than 79.90 €.
+pricing_scheme: per month
+pricing_sources:
+  - https://anydesk.com/en/pricing
+sso_pricing: unknown
+updated_at: 2024-02-06
+vendor_url: https://anydesk.com
