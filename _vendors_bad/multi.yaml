@@ -1,0 +1,12 @@
+---
+base_pricing: 30
+currency: USD
+free_sso_providers:
+  - Google
+name: Multi
+pricing_scheme: per user/month
+pricing_sources:
+  - https://multi.app/pricing
+sso_pricing: unknown
+updated_at: 2024-02-27
+vendor_url: https://multi.app
