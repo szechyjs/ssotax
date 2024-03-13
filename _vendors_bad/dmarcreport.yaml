@@ -1,0 +1,10 @@
+---
+base_pricing: 100
+currency: USD
+name: DMARC Report
+pricing_scheme: per month
+pricing_sources:
+  - https://dmarcreport.com/pricing
+sso_pricing: 400
+updated_at: 2024-03-13
+vendor_url: https://dmarcreport.com
