@@ -1,0 +1,11 @@
+---
+base_pricing: 15
+currency: USD
+name: Enchant
+notes: Add SSO for $5 per u/m.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.enchant.com/pricing#:~:text=Add%2DOns-,Advanced%20Security,-Single%20Sign%20On
+sso_pricing: 20
+updated_at: 2024-03-11
+vendor_url: https://www.enchant.com
