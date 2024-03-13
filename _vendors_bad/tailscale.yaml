@@ -1,0 +1,16 @@
+---
+base_pricing: 6
+currency: USD
+free_sso_providers:
+  - Apple
+  - Github
+  - Google
+  - Microsoft
+name: Tailscale
+notes: For "Advanced idP" (ex Okta, OneLogin). Call Us for Enterprise, which includes SCIM
+pricing_scheme: per user/month
+pricing_sources:
+  - https://tailscale.com/pricing
+sso_pricing: 18
+updated_at: 2024-03-13
+vendor_url: https://tailscale.com
