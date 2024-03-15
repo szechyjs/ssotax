@@ -1,0 +1,10 @@
+---
+base_pricing: 10000
+currency: USD
+name: CivicPlus
+pricing_scheme: per year
+pricing_sources:
+  - Invoice
+sso_pricing: 12050
+updated_at: 2024-03-14
+vendor_url: https://civicplus.com
