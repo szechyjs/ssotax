@@ -1,0 +1,15 @@
+---
+base_pricing: 60
+currency: USD
+free_sso_providers:
+  - Google
+  - Github
+name: appsmith
+notes: Enterprise tier starts around $20,000/yr, plus $20/user/month
+pricing_scheme: per user/month
+pricing_sources:
+  - Quote
+scim_pricing: 1667
+sso_pricing: 1667
+updated_at: 2024-03-20
+vendor_url: https://www.appsmith.com/pricing
