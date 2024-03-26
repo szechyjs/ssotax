@@ -1,0 +1,14 @@
+---
+base_pricing: 6
+currency: USD
+free_sso_providers:
+  - Github
+  - Google
+name: GitBook
+notes: $82 monthly Platform Fee fixed on top
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.gitbook.com/pricing#compare-plans
+sso_pricing: 12
+updated_at: 2024-03-26
+vendor_url: https://www.gitbook.com/
