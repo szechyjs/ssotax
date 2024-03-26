@@ -1,0 +1,16 @@
+---
+base_pricing: 45
+currency: USD
+free_sso_providers:
+  - Bitbucket
+  - Github
+  - Gitlab
+name: Cloudcannon
+notes: Only enterprise plan has SSO
+pricing_scheme: per user/month
+pricing_sources:
+  - https://cloudcannon.com/pricing/
+  - Quote
+sso_pricing: unknown
+updated_at: 2024-03-25
+vendor_url: https://cloudcannon.com
