@@ -1,0 +1,17 @@
+---
+base_pricing: 34
+currency: USD
+free_sso_providers:
+  - Apple
+  - Facebook
+  - Google
+  - Microsoft
+  - Salesforce
+name: JotForm
+notes: $1000 per user/year, minimum of 5 users, plus $2200 per year for an SSO add-on
+pricing_scheme: per user/month
+pricing_sources:
+  - Non-public discovery call
+sso_pricing: 83.33
+updated_at: 2024-04-03
+vendor_url: https://www.jotform.com
