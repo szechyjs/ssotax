@@ -1,0 +1,11 @@
+---
+name: Tenchi Security
+free_sso_providers:
+  - Google
+  - SAML
+sources:
+  - Founder
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2024-04-02
+vendor_url: https://tenchisecurity.com
