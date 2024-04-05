@@ -1,0 +1,10 @@
+---
+base_pricing: 15
+currency: USD
+name: Manatal
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.manatal.com/pricing
+sso_pricing: 55
+updated_at: 2024-04-04
+vendor_url: https://www.manatal.com
