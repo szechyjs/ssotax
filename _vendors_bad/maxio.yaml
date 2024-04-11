@@ -1,0 +1,11 @@
+---
+base_pricing: 5000
+currency: USD
+name: Maxio
+pricing_scheme: per year
+pricing_sources:
+  - https://www.maxio.com/pricing
+  - Quote
+sso_pricing: 7000
+updated_at: 2024-04-10
+vendor_url: https://www.maxio.com/
