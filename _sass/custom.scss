@@ -4,6 +4,15 @@
 
 // No img bottom
 
+.last-update {
+  @media (max-width: 940px) {
+    display: none;
+  }
+
+  text-align: right;
+  font-size: 0.7em;
+}
+
 table img {
   margin-bottom: 0;
 }
