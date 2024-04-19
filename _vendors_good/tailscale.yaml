@@ -1,0 +1,15 @@
+---
+name: Tailscale
+free_sso_providers:
+  - Apple
+  - GitHub
+  - Google
+  - Microsoft
+scim_starting_on_plan: highest
+sources:
+  - https://tailscale.com/pricing
+  - https://tailscale.com/blog/sso-tax-cut
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2024-04-18
+vendor_url: https://tailscale.com
