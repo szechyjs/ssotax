@@ -1,0 +1,15 @@
+---
+base_pricing: 0
+currency: USD
+free_sso_providers:
+  - Github
+  - Google
+name: Plane
+notes: OSS maintainers refuse to merge community-developed OIDC feature, because they're thinking to charge for SSO.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://plane.so/pricing
+  - https://github.com/makeplane/plane/pull/3341#issuecomment-1887375131
+sso_pricing: unknown
+updated_at: 2024-04-18
+vendor_url: https://plane.so
