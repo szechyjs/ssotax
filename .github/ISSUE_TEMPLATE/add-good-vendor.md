@@ -10,7 +10,7 @@ title: "Add/Update good Vendor: [Vendor]"
 - **name:** Use the vendors name 
 - **free_sso_providers:** Do they support free SSO providers like Google, Apple, Github etc.? One per line.
 - **scim_pricing:** Use the vendors cheapest price that includes SCIM. 
-- **scim_starting_on_plan:** When is SCIM available? `lowest`` or `highest` 
+- **scim_starting_on_plan:** When is SCIM available? `lowest` or `highest` 
 - **sources:** Add a link or a note to where you got information like pricing from. One per line.
 - **sso_on_free_plans:** Is SSO available on free plans?
 - **sso_on_all_paid_plans:** Is SSO available on all paid plans? It must be true to appear on this list.
