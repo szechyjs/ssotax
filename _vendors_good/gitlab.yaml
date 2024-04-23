@@ -1,0 +1,16 @@
+---
+name: Gitlab.com
+free_sso_providers:
+  - Google
+  - Github
+  - BitBucket
+scim_pricing: 29
+scim_starting_on_plan: lowest
+sources:
+  - https://about.gitlab.com/pricing/
+  - https://about.gitlab.com/blog/2023/09/14/the-ultimate-guide-to-enabling-saml/
+  - https://docs.gitlab.com/ee/user/group/saml_sso/
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2024-04-21
+vendor_url: https://gitlab.com
