@@ -1,0 +1,14 @@
+---
+base_pricing: 7500
+currency: USD
+free_sso_providers:
+  - Google
+  - Azure
+name: NetBox
+notes: The Professional plan for $24,000 does not include SAML, you need to pay extra for it or go to Enterprise. Hopefully someone can provide a quote.
+pricing_scheme: per year
+pricing_sources:
+  - https://netboxlabs.com/pricing/
+sso_pricing: unknown
+updated_at: 2024-04-22
+vendor_url: https://netboxlabs.com
