@@ -1,5 +1,5 @@
 ---
-base_pricing: 0
+base_pricing: 5
 currency: USD
 free_sso_providers:
   - Github
