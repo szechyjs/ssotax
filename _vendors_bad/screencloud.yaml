@@ -1,14 +1,16 @@
 ---
-base_pricing: 24
+base_pricing: 20
 currency: USD
 free_sso_providers:
   - Google
   - LinkedIn
   - Microsoft
 name: ScreenCloud
+notes: Enterprise Plan with SSO is $40 per screen/per month
 pricing_scheme: per screen/month
 pricing_sources:
   - https://screencloud.com/pricing
-sso_pricing: unknown
-updated_at: 2024-03-15
+  - Quote via Email
+sso_pricing: 40
+updated_at: 2024-04-24
 vendor_url: https://screencloud.com
