@@ -1,0 +1,18 @@
+---
+base_pricing: 100
+currency: USD
+free_sso_providers:
+  - Apple
+  - Facebook
+  - Google
+  - Microsoft
+name: Canva
+notes: SSO and SCIM are only available on the Enterprise plan.
+pricing_scheme: per user/year
+pricing_sources:
+  - https://www.canva.com/pricing/
+  - Quote
+scim_pricing: 300
+sso_pricing: 300
+updated_at: 2024-05-14
+vendor_url: https://www.canva.com/
