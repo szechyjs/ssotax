@@ -1,0 +1,10 @@
+---
+base_pricing: 1900
+currency: USD
+name: WebPT
+pricing_scheme: per year
+pricing_sources:
+  - Quote
+sso_pricing: 15800
+updated_at: 2024-05-13
+vendor_url: https://webpt.com
