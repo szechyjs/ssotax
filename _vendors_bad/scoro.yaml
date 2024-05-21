@@ -1,0 +1,14 @@
+---
+base_pricing: 28
+currency: USD
+free_sso_providers: 
+  - Google
+  - Microsoft
+name: Scoro
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.scoro.com/pricing
+scim_pricing: unknown
+sso_pricing: unknown
+updated_at: 2024-05-19
+vendor_url:  https://www.scoro.com
