@@ -1,0 +1,14 @@
+---
+name: Infisical
+free_sso_providers:
+  - Google
+  - Github
+  - Gitlab
+scim_pricing: unknown
+scim_starting_on_plan: highest
+sources:
+  - https://infisical.com/pricing
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2024-05-21
+vendor_url: https://infisical.com
