@@ -1,0 +1,17 @@
+---
+base_pricing: 20
+currency: USD
+free_sso_providers:
+  - Apple
+  - Facebook
+  - Google
+name: Vimeo
+notes: You can add SSO only if you have the Enterprise plan, which starts at $10,000 annually regardless of number of users
+pricing_scheme: per user/month for base pricing; otherwise flat fee
+pricing_sources:
+  - https://vimeo.com/upgrade-plan
+  - email
+scim_pricing: 10000
+sso_pricing: 10000
+updated_at: 2024-05-16
+vendor_url: https://vimeo.com/
