@@ -1,0 +1,13 @@
+---
+base_pricing: 830
+currency: USD
+name: Classy
+notes: $3000 base charge to implement SSO, no MFA supported
+pricing_scheme: per user/year
+pricing_sources: 
+  - Quote
+  - https://support.classy.org/s/article/federated-sso
+scim_pricing: 
+sso_pricing: 1256 
+updated_at:  2024-06-13
+vendor_url: https://www.classy.org/
