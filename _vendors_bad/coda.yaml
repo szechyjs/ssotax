@@ -1,0 +1,15 @@
+---
+base_pricing: 10
+currency: USD
+free_sso_providers:
+  - Microsoft
+  - Google
+name: Coda
+notes: Editors are free. "Call us" (Enterprise) for both SAML and SCIM. The previous tier is $30/month, so already a 200% increase.
+pricing_scheme: per month per Doc Maker
+pricing_sources:
+  - https://coda.io/pricing
+scim_pricing: unknown
+sso_pricing: unknown
+updated_at: 2024-06-19
+vendor_url: https://coda.io/
