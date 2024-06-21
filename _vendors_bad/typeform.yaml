@@ -1,0 +1,13 @@
+---
+base_pricing: 25
+currency: USD
+free_sso_providers:
+  - Google
+  - Microsoft
+name: Typeform
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.typeform.com/pricing
+sso_pricing: unknown
+updated_at: 2024-06-20
+vendor_url: https://typeform.com
