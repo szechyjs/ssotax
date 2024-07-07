@@ -16,13 +16,25 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <summary>
 Why does this exist?
 </summary>
-The **SSO Tax** stands for the practice of SaaS vendors to upcharge for Single-Sign-On ("SSO"). 
+The **SSO Tax** stands for the practice of SaaS vendors to upcharge for Single-Sign-On ("SSO").
 
 As a consequence, features like SSO, and more specifically OpenID Connect or SAML, are often restricted to enterprise-level subscriptions. This pricing strategy makes it prohibitively expensive for non-enterprise businesses to centrally manage their employees' access. *[Find out more about the why](/why).*
 
 The following list includes vendors that have SSO locked up in an subscription tier that is more than 10% more expensive than the standard price.
 
 Imagine buying a car and the manufacturer asks for an extra payment to unlock 100% of the braking power. Not offering security features if they already exist in your product means a vendor doesn’t care about your security. Our aim is to spotlight vendors who overcharge for security features, in hopes of instigating a change in the industry.
+</details>
+
+<details>
+<summary>
+What apps do I have?
+</summary>
+Organizations often use more apps than their internal IT departments are aware of. Employees may
+start using new apps when they see a benefit, which can lead to sensitive data ending up with
+unapproved vendors.
+
+You can't protect what you can't see. To discover all applications used in your organization, try
+the free [Shadow IT Scanner](https://www.accessowl.io/scan){:target="_blank_"} powered by AccessOwl.
 </details>
 
 ## {{ page.title }}
