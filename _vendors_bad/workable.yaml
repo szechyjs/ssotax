@@ -1,0 +1,14 @@
+---
+base_pricing: 313
+currency: USD
+free_sso_providers:
+  - Google
+  - LinkedIn
+  - Microsoft
+name: Workable
+pricing_scheme: per month
+pricing_sources:
+  - https://www.workable.com/pricing
+sso_pricing: 628
+updated_at: 2024-07-03
+vendor_url: https://www.workable.com
