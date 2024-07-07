@@ -1,0 +1,13 @@
+---
+base_pricing: 100
+currency: USD
+free_sso_providers:
+  - Github
+  - Google
+name: ProjectDiscovery
+pricing_scheme: per month
+pricing_sources:
+  - https://projectdiscovery.io/pricing
+sso_pricing: unknown
+updated_at: 2024-06-28
+vendor_url: https://projectdiscovery.io
