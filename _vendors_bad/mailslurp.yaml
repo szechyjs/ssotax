@@ -1,0 +1,15 @@
+---
+base_pricing: 249
+currency: USD
+free_sso_providers:
+  - Github
+  - Google
+  - Microsoft
+name: Mailslurp
+pricing_scheme: per month
+pricing_sources:
+  - https://www.mailslurp.com/pricing
+scim_pricing: 
+sso_pricing: 1021
+updated_at: 2024-07-15
+vendor_url: https://www.mailslurp.com/
