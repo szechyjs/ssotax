@@ -1,0 +1,13 @@
+---
+base_pricing: 20
+currency: USD
+free_sso_providers:
+  - Github
+  - Google
+name: FileFlows
+pricing_scheme: per month
+pricing_sources:
+  - https://fileflows.com/pricing
+sso_pricing: 100
+updated_at: 2024-07-14
+vendor_url: https://fileflows.com
