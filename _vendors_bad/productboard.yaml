@@ -1,0 +1,15 @@
+---
+base_pricing: 19
+currency: USD
+free_sso_providers:
+  - Google
+name: Productboard
+notes: Google SSO (OAuth) can be enforced starting with the Pro plan ($59), SAML & SCIM require Enterprise (MSRP listed, first 5 Maker even $166 versus $119).
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.productboard.com/pricing
+  - Quote
+scim_pricing: 119
+sso_pricing: 119
+updated_at: 2024-07-16
+vendor_url: https://productboard.com
