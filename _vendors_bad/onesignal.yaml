@@ -1,0 +1,16 @@
+---
+base_pricing: 9
+currency: USD
+free_sso_providers:
+  - Facebook
+  - Github
+  - Google
+name: OneSignal
+notes: You get SSO in the Enterprise plan, which requires a $8000 per annum minimum spend. Advised by their sales team.
+pricing_scheme: per month
+pricing_sources:
+  - https://onesignal.com/pricing
+  - Quote
+sso_pricing: 666.66
+updated_at: 2024-08-13
+vendor_url: https://onesignal.com
