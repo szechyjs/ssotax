@@ -1,0 +1,14 @@
+---
+base_pricing: 19
+currency: USD
+free_sso_providers:
+   - Google
+name: utm.io
+notes: SSO available on any paid tier for $500/year add-on only. 
+pricing_scheme: per year unlimited users
+pricing_sources:
+  - https://web.utm.io/pricing/
+  - Quote from vendor
+sso_pricing: 500
+updated_at: 2024-09-04
+vendor_url: https://web.utm.io/
