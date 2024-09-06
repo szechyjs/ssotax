@@ -1,0 +1,13 @@
+---
+base_pricing: 35
+currency: AUD
+name: Xero
+notes: No SSO Integrations Available. Xero does not integrate with any 3rd party IDPs
+pricing_scheme: per month
+pricing_sources:
+  - https://www.xero.com/au/pricing-plans/
+  - Quote
+scim_pricing: 60
+sso_pricing: N/A
+updated_at: 2024-09-06
+vendor_url: https://www.xero.com
