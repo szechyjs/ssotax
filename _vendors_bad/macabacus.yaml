@@ -1,0 +1,12 @@
+---
+base_pricing: 25
+pricing_scheme: monthly
+currency: USD
+name: macabacus
+pricing_scheme: per user/month
+pricing_sources:
+  - https://macabacus.com/pricing
+  - Quote
+sso_pricing: 36.11
+updated_at: 2024-09-06
+vendor_url: https://macabacus.com/
