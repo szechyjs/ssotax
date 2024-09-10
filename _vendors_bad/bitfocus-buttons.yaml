@@ -1,0 +1,12 @@
+---
+base_pricing: 99
+currency: USD
+name: Bitfocus Buttons
+notes: The "Enterprise" plan isn't actually available yet, but explicitly list SSO support under it.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www-launch.bitfocus.io/buttons
+scim_pricing: unknown
+sso_pricing: unknown
+updated_at: 2024-09-10
+vendor_url: https://www-launch.bitfocus.io/buttons
