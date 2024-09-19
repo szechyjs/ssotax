@@ -1,0 +1,18 @@
+---
+base_pricing: 19.75
+currency: USD
+free_sso_providers:
+  - Google
+  - Microsoft
+  - Slack
+  - Webex
+  - Zoom
+name: Read.AI
+notes: SSO Only Available on the Enterprise+ Plan.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.read.ai/plans-pricing
+scim_pricing: unknown
+sso_pricing: 39.75
+updated_at: 2024-09-17
+vendor_url: https://www.read.ai/
