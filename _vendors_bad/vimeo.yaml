@@ -11,7 +11,7 @@ pricing_scheme: per user/month for base pricing; otherwise flat fee
 pricing_sources:
   - https://vimeo.com/upgrade-plan
   - email
-scim_pricing: 10000
-sso_pricing: 10000
-updated_at: 2024-05-16
+scim_pricing: 833.33
+sso_pricing: 833.33
+updated_at: 2024-09-19
 vendor_url: https://vimeo.com/
