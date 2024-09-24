@@ -1,11 +1,14 @@
 ---
-base_pricing: 136
+base_pricing: 29
 currency: USD
+free_sso_providers:
+  - Google
 name: Intercom
-pricing_scheme: per user/month
+notes: Pricing based on billed yearly pricing
+pricing_scheme: per seat/month
 pricing_sources:
-  - https://twitter.com/brianebeyer/status/1053797786301489153
-  - https://www.intercom.com/pricing
-sso_pricing: 202
-updated_at: 2018-10-20
-vendor_url: https://www.intercom.com
+  - https://intercom.com/pricing
+scim_pricing: 132
+sso_pricing: 132
+updated_at: 2024-09-19
+vendor_url: https://intercom.com
