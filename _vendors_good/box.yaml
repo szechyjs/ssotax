@@ -1,0 +1,8 @@
+---
+name: Box
+sources:
+  - https://www.box.com/pricing
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2024-09-19
+vendor_url: https://www.box.com
