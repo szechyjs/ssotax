@@ -1,10 +1,15 @@
 ---
-base_pricing: 90
+base_pricing: 89
 currency: USD
+free_sso_providers:
+  - Bitbucket
+  - Github
+  - Gitlab
+  - Google
 name: Bitrise
 pricing_scheme: per user/month
 pricing_sources:
-  - https://www.bitrise.io/pricing/teams
-sso_pricing: 270
-updated_at: 2019-06-25
+  - https://www.bitrise.io/plans-pricing
+sso_pricing: 202.50
+updated_at: 2024-09-19
 vendor_url: https://www.bitrise.io
