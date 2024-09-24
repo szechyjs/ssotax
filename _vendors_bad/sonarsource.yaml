@@ -1,0 +1,12 @@
+---
+base_pricing: 30
+currency: EUR
+name: SonarCloud
+notes: "'contact sales' for Enterprise/sso pricing"
+pricing_scheme: per month
+pricing_sources:
+  - https://www.sonarsource.com/plans-and-pricing/sonarcloud/
+scim_pricing: unknown
+sso_pricing: unknown
+updated_at: 2024-09-23
+vendor_url: https://www.sonarsource.com/
