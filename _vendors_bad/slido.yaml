@@ -1,0 +1,14 @@
+---
+base_pricing: 210
+currency: USD
+free_sso_providers:
+  - Google
+  - Webex
+name: Slido
+pricing_scheme: per year
+pricing_sources:
+  - https://www.slido.com/pricing?plan=annual
+scim_pricing: 2400
+sso_pricing: 2400
+updated_at: 2024-09-26
+vendor_url: https://slido.com
