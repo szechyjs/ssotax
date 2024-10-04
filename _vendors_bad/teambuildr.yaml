@@ -1,0 +1,14 @@
+---
+base_pricing: 600
+currency: USD
+free_sso_providers:
+name: TeamBuildr
+notes: SAML is part of API Integrations
+pricing_scheme: per year
+pricing_sources:
+  - https://www.teambuildr.com/pricing
+  - Quote
+scim_pricing: N/A
+sso_pricing: 2400
+updated_at: 2024-10-02
+vendor_url: https://www.teambuildr.com
